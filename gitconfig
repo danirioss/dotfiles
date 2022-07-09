@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = danirioscampelo@gmail.com
+	name = Daniela Rios
